@@ -9,7 +9,4 @@
     "build": "babel src -d lib",
     "test": "jest"
   }
-  
-    
-  
 }

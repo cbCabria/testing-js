@@ -1,2 +1,81 @@
-{"D:\\workspacegit\\testing-js\\2 - spock\\spock.js": {"path":"D:\\workspacegit\\testing-js\\2 - spock\\spock.js","statementMap":{"0":{"start":{"line":1,"column":14},"end":{"line":6,"column":1}},"1":{"start":{"line":9,"column":2},"end":{"line":11,"column":3}},"2":{"start":{"line":10,"column":5},"end":{"line":10,"column":21}},"3":{"start":{"line":13,"column":3},"end":{"line":13,"column":39}},"4":{"start":{"line":16,"column":0},"end":{"line":16,"column":23}}},"fnMap":{"0":{"name":"spock","decl":{"start":{"line":8,"column":9},"end":{"line":8,"column":14}},"loc":{"start":{"line":8,"column":20},"end":{"line":15,"column":1}},"line":8}},"branchMap":{"0":{"loc":{"start":{"line":9,"column":2},"end":{"line":11,"column":3}},"type":"if","locations":[{"start":{"line":9,"column":2},"end":{"line":11,"column":3}},{"start":{},"end":{}}],"line":9},"1":{"loc":{"start":{"line":13,"column":10},"end":{"line":13,"column":38}},"type":"cond-expr","locations":[{"start":{"line":13,"column":33},"end":{"line":13,"column":34}},{"start":{"line":13,"column":37},"end":{"line":13,"column":38}}],"line":13}},"s":{"0":1,"1":6,"2":0,"3":6,"4":1},"f":{"0":6},"b":{"0":[0,6],"1":[4,2]},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"a71133c0f7dcf56457f06f411f084c4bce581b33"}
+{
+  "D:\\workspacegit\\testing-js\\2 - spock\\spock.js": {
+    "path": "D:\\workspacegit\\testing-js\\2 - spock\\spock.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 14 },
+        "end": { "line": 6, "column": 1 }
+      },
+      "1": {
+        "start": { "line": 9, "column": 2 },
+        "end": { "line": 11, "column": 3 }
+      },
+      "2": {
+        "start": { "line": 10, "column": 5 },
+        "end": { "line": 10, "column": 21 }
+      },
+      "3": {
+        "start": { "line": 13, "column": 3 },
+        "end": { "line": 13, "column": 39 }
+      },
+      "4": {
+        "start": { "line": 16, "column": 0 },
+        "end": { "line": 16, "column": 23 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "spock",
+        "decl": {
+          "start": { "line": 8, "column": 9 },
+          "end": { "line": 8, "column": 14 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 20 },
+          "end": { "line": 15, "column": 1 }
+        },
+        "line": 8
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 9, "column": 2 },
+          "end": { "line": 11, "column": 3 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 9, "column": 2 },
+            "end": { "line": 11, "column": 3 }
+          },
+          { "start": {}, "end": {} }
+        ],
+        "line": 9
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 13, "column": 10 },
+          "end": { "line": 13, "column": 38 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 13, "column": 33 },
+            "end": { "line": 13, "column": 34 }
+          },
+          {
+            "start": { "line": 13, "column": 37 },
+            "end": { "line": 13, "column": 38 }
+          }
+        ],
+        "line": 13
+      }
+    },
+    "s": { "0": 1, "1": 6, "2": 0, "3": 6, "4": 1 },
+    "f": { "0": 6 },
+    "b": { "0": [0, 6], "1": [4, 2] },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "a71133c0f7dcf56457f06f411f084c4bce581b33"
+  }
 }
